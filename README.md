@@ -1,8 +1,14 @@
-# awesome-quant
+# awesome-quant-improved
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+
+## Contributor Guide
+
+Anyone is welcome to contribute by opening a discussion, issue or pull request.
+
+Quant Engineering social chat can be joined at https://matrix.to/#/#quant-social:matrix.org
 
 ## Languages
 
